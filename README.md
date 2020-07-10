@@ -8,3 +8,7 @@
   <a href="https://www.codewars.com/users/adrian.eyre"><img src="https://raw.githubusercontent.com/adrianeyre/adrianeyre/master/codewars.jpg" alt="Codewars"><a>
   <a href="mailto:info@adrianeyre.co.uk"><img src="https://raw.githubusercontent.com/adrianeyre/adrianeyre/master/email.png" alt="Email"><a>
  </p>
+
+<p align="center">
+  Please visit my portfolio website <a href="http://adrianeyre.co.uk">http://adrianeyre.co.uk</a> for more information and live code examples
+<p>
