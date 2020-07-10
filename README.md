@@ -1,4 +1,4 @@
-[![Screenshot](https://raw.githubusercontent.com/adrianeyre/adrianeyre/master/banner.png)](https://raw.githubusercontent.com/adrianeyre/adrianeyre/master/banner.png "Banner")
+<a href="http://adrianeyre.co.uk/"><img src="https://raw.githubusercontent.com/adrianeyre/adrianeyre/master/banner.png" alt="Github"><a>
 
 <p align="center">
   <a href="https://github.com/adrianeyre/adrianeyre"><img src="https://raw.githubusercontent.com/adrianeyre/adrianeyre/master/github.png" alt="Github"><a>
