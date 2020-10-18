@@ -15,5 +15,5 @@
 
 <p align="center">
   <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianeyre&layout=compact&theme=radical" />
-  <img align="center" height="150px"  src="https://github-readme-stats.vercel.app/api?username=adrianeyre&show_icons=true&theme=radical" />
+  <img align="center" height="150px"  src="https://github-readme-stats.vercel.app/api?username=adrianeyre&show_icons=true&theme=radical&&hide=contribs" />
 <p>
