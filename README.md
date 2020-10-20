@@ -1,4 +1,4 @@
-<a href="http://adrianeyre.co.uk/"><img src="https://raw.githubusercontent.com/adrianeyre/adrianeyre/master/banner.png" alt="Github"><a>
+<a href="http://adrianeyre.co.uk/"><img width = 815px src="https://raw.githubusercontent.com/adrianeyre/adrianeyre/master/banner.png" alt="Github"><a>
 
 <p align="center">
   <a href="http://adrianeyre.co.uk"><img src="https://raw.githubusercontent.com/adrianeyre/adrianeyre/master/website.png" alt="AdrianEyre.co.uk"><a>
