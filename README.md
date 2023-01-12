@@ -13,9 +13,4 @@
   <p align="center">
     Please visit my portfolio website <a href="http://adrianeyre.co.uk">http://adrianeyre.co.uk</a> for more information and live code examples
   <p>
-
-  <p align="center">
-    <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianeyre&layout=compact&theme=radical" />
-    <img align="center" height="160px"  src="https://github-readme-stats.vercel.app/api?username=adrianeyre&show_icons=true&theme=radical&&hide=contribs&count_private=true" />
-  <p>
 </p>
