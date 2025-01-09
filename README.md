@@ -11,6 +11,6 @@
    </p>
 
   <p align="center">
-    Please visit my portfolio website <a href="http://adrianeyre.co.uk">http://adrianeyre.co.uk</a> for more information and live code examples
+    Please visit my portfolio website <a href="http://adrianeyre.co.uk">http://adrianeyre.co.uk</a> for more information and code examples
   <p>
 </p>
