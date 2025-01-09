@@ -13,7 +13,4 @@
   <p align="center">
     Please visit my portfolio website <a href="http://adrianeyre.co.uk">http://adrianeyre.co.uk</a> for more information and live code examples
   <p>
-  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=adrianeyre&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=800" alt="GitHub Streak" />
-  </p>
 </p>
